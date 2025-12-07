@@ -1,1 +1,6 @@
-data barang
+﻿"Kode,Nama,Harga"
+"BRG01,Indomie,3000"
+"BRG02,Aqua,5000"
+"BRG03,Teh Botol,4000"
+"BRG04,Silverqueen,12000"
+"BRG05,Telur,2500"
